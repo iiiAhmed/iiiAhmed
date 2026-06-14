@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Ahmed 👋
+
+Software Engineer | Java Backend Developer | Competitive Programmer
+
+Currently a 9-Month Java Enterprise Application Development Trainee at ITI.
 
 ## 🛠️ Tech Stack
 
